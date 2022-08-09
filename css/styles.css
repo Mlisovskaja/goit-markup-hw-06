@@ -674,6 +674,7 @@ flex-basis: calc(100% - 60px / 4);
     line-height: 1.17;
     letter-spacing: 0.01em;
     color: #757575;
+    display: block;
     margin-bottom: 4px;
 }
 .modal-form-input-box {
